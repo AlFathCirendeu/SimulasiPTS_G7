@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="A018BC00-195B-4C62-B842-31C39646F111" version="0">
+	<info>
+		<title>PTS BINDO G7 Simulasi</title>
+		<description/>
+	</info>
+	<files index="id25" thumbnail="id21" totalSize="6850698">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/images/img-0701da296165f6c609a5b3b3009eaeef534a3f53.jpg</file>
+		<file id="id12">data/images/img-1171217f6eca26edc470d7a055b60865325008f0.png</file>
+		<file id="id13">data/images/img-150d54bccbbc41dded0aee1e2b6b2c234e19eed6.png</file>
+		<file id="id14">data/images/img-1b6c1aa12d6396ec10faecff927bf9ca9f0b6f26.png</file>
+		<file id="id15">data/images/img-408d623e6b319325721c48bd1a798f6a644e530f.png</file>
+		<file id="id16">data/images/img-4847dd456a4108ccb4d5dbaa8493aa1ef0191629.png</file>
+		<file id="id17">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id18">data/images/img-aea0fc4f9b1ef737c6c952e88b1f45ff43e05458.jpg</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
+	</files>
+</presentation>
+
